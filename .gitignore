@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data directory
+data/*.txt
+data/*.bz2
+
+# model directory
+data/model/*
